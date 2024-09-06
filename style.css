@@ -1,0 +1,40 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: linear-gradient(90deg, rgb(56, 51, 143) 0%, rgb(151, 151, 207) 35%, rgb(50, 168, 192) 100%);
+    border: 1mm dotted;
+    text-align: center;
+}
+
+p{
+    font-weight: lighter;
+    color: rgb(255, 255, 255);
+}
+
+ol li{
+    color: rgb(232, 234, 238);
+}
+
+blockquote{
+    font: size 3rem
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    color: rgb(252, 254, 255);
+}
+
+a:visited{
+    color: rgb(204, 208, 220);
+}
+
+a:focus{
+    color: red;
+}
+
+img{
+    border-radius:10px;
+}
